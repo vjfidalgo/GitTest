@@ -27,6 +27,8 @@ do
  write(10,*) a
 end do
 
+print*, "master cambio 01"
+
 print*, "Summation =", sum
 write(10,*) "Summation =", sum
 close(10)

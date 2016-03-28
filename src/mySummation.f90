@@ -9,6 +9,7 @@ integer :: sum, a
 print*, "This program performs summations. Enter 0 to stop."
 print*, "and this too"
 print*, "the last one"
+print*, "one more ..."
 open(unit=10, file="SumData.DAT")
 
 sum = 0

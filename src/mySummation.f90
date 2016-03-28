@@ -16,6 +16,8 @@ open(unit=10, file="SumData.DAT")
 
 sum = 0
 
+print*, "cambio01"
+
 do
  print*, "Add:"
  read*, a
